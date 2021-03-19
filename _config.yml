@@ -59,7 +59,7 @@ author:
   name             : "Valerio Schiavoni"
   avatar           : "Schiavoni_Valerio_teaser.jpg"
   bio              : "PhD in Computer Science, tennis amateur, addicted to spaghetti al tonno."
-  location         : "Neuchatel, Switzerland"
+  location         : "Neuchâtel, Switzerland"
   employer         : "University of Neuchatel"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=sDtC96AAAAAJ"
@@ -80,12 +80,13 @@ author:
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0003-1493-6603"
+  dblp             : "https://dblp.uni-trier.de/pid/15/2850.html"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "vschiavoni"
   vine             :
   weibo            :
   xing             :
