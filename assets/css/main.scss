@@ -78,3 +78,7 @@
   .degree { font-weight: bold; }
   .archive-note { font-style: italic; margin-top: 1.5em; }
 }
+
+
+// Keep section targets clear of the persistent navigation bar.
+html { scroll-padding-top: 6rem; }
