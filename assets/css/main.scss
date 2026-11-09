@@ -39,3 +39,42 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+// Compact academic service and supervision histories.
+#compact-service, #phd-students {
+  .cs-row, .phd-row {
+    display: grid;
+    gap: 1em;
+    padding: .6em 0;
+    border-top: 1px solid $border-color;
+  }
+  .cs-row { grid-template-columns: 4ch minmax(0, 1fr); }
+  .phd-row { grid-template-columns: 10.5ch minmax(0, 1fr); }
+  .cs-year { font-weight: bold; }
+  .phd-years { font-variant-numeric: tabular-nums; }
+  .cs-events, .phd-description { min-width: 0; overflow-wrap: anywhere; }
+  .phd-thesis { margin-top: .25em; }
+  summary { cursor: pointer; padding: .6em 0; }
+  details { margin-top: .25em; }
+  @media (max-width: 600px) {
+    .phd-row { grid-template-columns: 1fr; gap: .25em; }
+    .cs-row { gap: .5em; }
+  }
+}
+
+
+.publication-list {
+  > li { margin-bottom: 1.25em; overflow-wrap: anywhere; }
+  > li[hidden] { display: none; }
+}
+#publication-status { display: block; margin-top: .5em; font-size: .85em; }
+
+
+#student-projects {
+  .project-year { padding-bottom: .25em; border-bottom: 1px solid $border-color; }
+  .project-entry { padding: 0 0 .8em; margin-bottom: 1em; border-bottom: 1px dotted $border-color; overflow-wrap: anywhere; }
+  .project-title { font-weight: bold; margin-bottom: .25em; }
+  .project-meta { font-size: .9em; }
+  .degree { font-weight: bold; }
+  .archive-note { font-style: italic; margin-top: 1.5em; }
+}

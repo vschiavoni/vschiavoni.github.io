@@ -1,0 +1,5 @@
+---
+permalink: /projects/
+redirect_to: /#research-projects
+sitemap: false
+---

@@ -1,12 +1,12 @@
 locale                   : "en-US"
-title                    : "Valerio Schiavoni Personal Homepage"
+title                    : "Valerio Schiavoni"
 title_separator          : "-"
 name                     : &name "Valerio Schiavoni"
-description              : &description "-_-"
+description              : &description "Valerio Schiavoni — research, publications, and academic activities at the University of Neuchâtel."
 url                      : "https://vschiavoni.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vschiavoni/vschiavoni.github.io"
-teaser                   : "Schiavoni_Valerio_teaser.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "Schiavoni-Valerio-2024.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -57,13 +57,13 @@ analytics:
 # Site Author
 author:
   name             : "Valerio Schiavoni"
-  avatar           : "Schiavoni_Valerio_teaser.jpg"
-  bio              : "PhD in Computer Science, tennis amateur, addicted to spaghetti al tonno."
+  avatar           : "Schiavoni-Valerio-2024.jpg"
+  bio              : "PhD in Computer Science, tennis amateur."
   location         : "Neuchâtel, Switzerland"
   employer         : "University of Neuchatel"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=sDtC96AAAAAJ"
-  email            : "first and last with a dot in between using gmail"
+  email            : "valerio.schiavoni@unine.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
