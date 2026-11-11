@@ -17,9 +17,9 @@ I coordinate the [CUSO Inter-University Doctoral Program in Computer Science](ht
 Projects I have worked on or currently work on:
 
 <ul>
-	<li><a href="https://data.snf.ch/grants/grant/10010141">SNSF CIRCULA</a>, PI (2027-2030)</li>
+	<li><a href="https://data.snf.ch/grants/grant/10010141">SNSF CIRCULA</a>, PI (2027-2030) — <a href="https://circula.unine.ch/">Project website</a></li>
 	<li><a href="https://data.snf.ch/grants/grant/215216">SNSF P4</a>, Co-PI (2024-2028)</li>
-	<li><a href="https://www.chistera.eu/projects/redonda">CHIST-ERA REDONDA</a>, PI (2023-2026)</li>
+	<li><a href="https://www.chistera.eu/projects/redonda">CHIST-ERA REDONDA</a>, PI (2023-2026) — <a href="https://redonda-project.github.io/">Project website</a></li>
     <li><a href="https://projects.info.uaic.ro/sceal/">CHIST-ERA SCEAL</a>  Co-PI, (2025-2027)</li>
 	<li><a href="https://vedliot.eu/">VEDLIoT</a> (2020-2023)</li>
 	<li><a href="https://data.snf.ch/grants/grant/178822">SNSF PersiST</a> (2018-2022)</li>
@@ -70,7 +70,7 @@ I coordinate the [CUSO Inter-University Doctoral Program in Computer Science](ht
 
 <section id="compact-service" aria-label="Academic service">
 <h3>Conference service</h3>
-<div class="cs-row"><div class="cs-year">2027</div><div class="cs-events"><a href="https://middleware-conf.github.io/">Middleware'27</a> (TPC) &#183; SIGOPS ATC 2027 (Artifact Evaluation Co-Chair) &#183; <a href="https://srds-conference.org/">IEEE SRDS'27</a> General Chair &#183; <a href="https://2027.debs.org/">ACM DEBS 2027</a> (PC Co-Chair) &#183; <a href="https://2027.eurosys.org/">EuroSys'27</a> (TPC) &#183; <a href="https://dsn2027-berlin.github.io/">DSN'27</a> (TPC) &#183; <a href="https://www.dedisys.org/sac27/">DADS'27</a> (TPC)</div></div>
+<div class="cs-row"><div class="cs-year">2027</div><div class="cs-events"><a href="https://middleware-conf.github.io/2027/">Middleware'27</a> (TPC) &#183; SIGOPS ATC 2027 (Artifact Evaluation Co-Chair) &#183; <a href="https://srds-conference.org/">IEEE SRDS'27</a> General Chair &#183; <a href="https://2027.debs.org/">ACM DEBS 2027</a> (PC Co-Chair) &#183; <a href="https://2027.eurosys.org/">EuroSys'27</a> (TPC) &#183; <a href="https://dsn2027-berlin.github.io/">DSN'27</a> (TPC) &#183; <a href="https://www.dedisys.org/sac27/">DADS'27</a> (TPC)</div></div>
 <div class="cs-row"><div class="cs-year">2026</div><div class="cs-events"><a href="https://opodis26.software.imdea.org/">OPODIS'26</a> (TPC) &#183; <a href="https://2026.eurosys.org/">EuroSys'26</a> (TPC) &#183; <a href="https://srds-conference.org/">SRDS 2026</a> (TPC) &#183; <a href="https://sites.google.com/di.uniroma1.it/esorics2026/">ESORICS 2026</a> (TPC) &#183; <a href="https://2026.euro-par.org/">EuroPar'26</a> (TPC) &#183; <a href="https://2026.debs.org/call-for-doctoral-symposium/">DEBS'26 PhD Symposium</a> (Chair) &#183; <a href="https://2026.debs.org/">DEBS'26</a> (TPC) &#183; <a href="https://icdcs2026.icdcs.org/">ICDCS'26</a> (TPC, Big Data models and Systems track) &#183; <a href="https://dsn2026.github.io/">DSN'26</a> (TPC) &#183; <a href="https://www.discotec.org/2026/dais.html">DAIS'26</a> (TPC) &#183; <a href="https://middleware-conf.github.io/2026/">Middleware'26 [Industry Track]</a> (TPC) &#183; <a href="https://middleware-conf.github.io/2026/">Middleware'26</a> (TPC)</div></div>
 <details>
 <summary>Previous service &#183; 2025&#8211;2010</summary>
