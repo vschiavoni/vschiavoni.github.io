@@ -145,6 +145,7 @@ redirect_from:
 
 <h2 id="journals">International Journals</h2>
 <ol id="journal-list" class="publication-list" reversed>
+<li>Vincenzo P. Di Perna, Valerio Schiavoni, Miguel Matos, Francesco Fabris, Marco Bernardo<br> <b>Experimental Repeatability and Performance Predictability in Network-Controlled Blockchain Evaluation</b><br> To appear in <i>IEEE Access</i>.</li>
 <li>Vincenzo P. Di Perna, Valerio Schiavoni, Miguel Matos, Francesco Fabris, Marco Bernardo<br> <b>The Impact of Network Topology on Performance Metrics and Energy Consumption for Blockchains: Towards Repeatable Benchmarking</b><br> In <i><a href="https://dl.acm.org/doi/10.1145/3828757">Distributed Ledger Technologies: Research and Practice</a></i>. 2026.<br> DOI: 10.1145/3828757.</li>
 <li>Pasquale De Rosa, Pascal Felber, Valerio Schiavoni <br> <b>Seeing Through EVM Bytecode Obfuscation. </b><br> In <i><a href="https://www.sciencedirect.com/science/article/pii/S0167739X25003267">IEEE Access</a></i>. Volume: 14, February 2026, pp 25515 - 25536.<br> DOI: 10.1109/ACCESS.2026.3662238. </li>
 <li>Lorenzo Brescia, Iacopo Colonnelli, Robert Birke, Valerio Schiavoni, Pascal Felber, Marco Aldinucci.<br> <b>A Comprehensive Performance Evaluation of TEEs for Confidential DNA Alignment </b><br> In <i><a href="https://www.sciencedirect.com/science/article/pii/S0167739X25003267">FGCS</a></i> (Future Generation Computer Systems). Volume: 175, February 2026, 108031.<br> DOI: 10.1016/j.future.2025.108031. </li>
