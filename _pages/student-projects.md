@@ -24,7 +24,7 @@ redirect_from:
 </div>
 <div class="project-entry">
     <div class="project-title">Monitoring MPI Workloads on Secure Virtual Machines</div>
-    <div class="project-meta"><span class="degree">MSc</span> &mdash; Théo Rollier &mdash; University of Fribourg, Switzerland</div>
+    <div class="project-meta"><span class="degree">MSc</span> &mdash; Théo Rollier &mdash; University of Neuchâtel, Switzerland</div>
 </div>
 <div class="project-entry">
     <div class="project-title">Privacy-Preserving Expense Splitting on Smart Contracts</div>
